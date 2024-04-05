@@ -1,0 +1,27 @@
+# Build and Release Folders
+Hardware/Project/.vscode/
+Hardware/Project/Objects/
+Hardware/Project/RTE/
+Hardware/Project/Listings/
+Project/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+*.cmsis
+*.eide
+*.vscode
+*.qtc_clangd
+*.clang-format
+.eide.usr.ctx.json
+*.uvguix.gongji
+*.uvguix.Jgcoder
+*.scvd
+*.idea
+*.hex
+*.vscode
+*.vscode/*
+*.mxproject
+*.zip
