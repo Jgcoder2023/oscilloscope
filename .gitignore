@@ -3,7 +3,6 @@ Hardware/Project/.vscode/
 Hardware/Project/Objects/
 Hardware/Project/RTE/
 Hardware/Project/Listings/
-Project/
 
 # Executables
 *.swf
@@ -25,3 +24,8 @@ Project/
 *.vscode/*
 *.mxproject
 *.zip
+*.scvd
+*.Administrator
+*.uvguix.Jg
+*.lceda
+*.uvoptx
