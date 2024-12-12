@@ -16,3 +16,8 @@
 
 # 紫金宝葫芦
 1. 在线演示视频： https://www.bilibili.com/video/BV1jrgLe4Ef5/
+
+
+# 1-4节电池平衡充电器
+1. 硬件开源地址：https://oshwhub.com/gongji/balance-charger-supporting-1-4-b
+2. 在线演示视频：
